@@ -1,4 +1,6 @@
-# EPCIS-IoT GraphQL Backend
+# EPCIS-IoT GraphQL Backend (Deprecated)
+
+**Refer to [tiguitto](https://github.com/nimble-platform/tiguitto) / [TrackNTrace Landing Page](https://github.com/iotfablab/TrackNTrace) for usage of `Telegraf` to parse EPCIS and IOT Information into InfluxDB**
 
 * Typescript based Apollo-Server GraphQL Backend for __EPCIS-IoT__.
 * CRUD App with GraphQL and MongoDB for Site Creation.
